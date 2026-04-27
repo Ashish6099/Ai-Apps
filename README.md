@@ -1,2 +1,2 @@
 # Ai-Apps
-Build with AI 
+Build with AI.
